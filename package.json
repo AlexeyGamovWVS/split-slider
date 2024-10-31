@@ -1,0 +1,27 @@
+{
+  "name": "split-slider",
+  "version": "1.0.0",
+  "description": "Сплит-слайдер для слайдов в 2 колонки",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "publish": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/my-project.git"
+  },
+  "keywords": [
+    "slider",
+    "carousel"
+  ],
+  "author": "Алексей Гамов, WebValley Studio <https://web-valley.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexeygamovwvs/split-slider/issues"
+  },
+  "homepage": "https://github.com/alexeyGamovwvs/split-slider",
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
+}
