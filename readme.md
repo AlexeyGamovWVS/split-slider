@@ -3,7 +3,7 @@
 
 HTML, Javascript, CSS
 
-Посмотреть: 
+[Посмотреть пример](https://alexeygamovwvs.github.io/split-slider/)
 
 ## Использование:
 

@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/username/my-project.git"
+    "url": "git+https://github.com/alexeygamovwvs/split-slider.git"
   },
   "keywords": [
     "slider",
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/alexeygamovwvs/split-slider/issues"
   },
-  "homepage": "https://github.com/alexeyGamovwvs/split-slider",
+  "homepage": "https://alexeygamovwvs.github.io/split-slider/",
   "devDependencies": {
     "gh-pages": "^6.2.0"
   }

@@ -24,7 +24,6 @@ export default class SplitSlider {
     this._nextSlideClass = nextSlideClass;
     this._prevSlideClass = prevSlideClass;
     this._currIndex = 0;
-    this._breakpoints = breakpoints;
     this._amountSlides = this._slides.length;
   }
 
